@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SQLITEAPP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PeluchitosApp</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Agregar">Agregar</string>
+    <string name="precio">Precio</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="nombre">Nombre</string>
+    <string name="id">ID</string>
+    <string name="buscar">Buscar</string>
+    <string name="ebNombre">Nombre</string>
+    <string name="buscarPe">Buscar Peluche</string>
+    <string name="eElimibarPelu">Nombre</string>
+    <string name="eNombre">Nombre</string>
+    <string name="EliminarP">Eliminar Peluche</string>
+    <string name="lidd">ID</string>
+    <string name="lNombre">Nombre</string>
+    <string name="lCantidad">Cantidad</string>
+    <string name="lPrecio">Precio</string>
+    <string name="ldatos">Datos</string>
+</resources>
